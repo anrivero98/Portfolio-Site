@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .image_container {
+    height: 300px;
+    max-width: 100%; /* Set the maximum width */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4); /* Add box shadow */
+}
+  
+  .text_container {
+    margin-left: 10px; /* Adjust the spacing between image and text */
+  }
+  
+  
